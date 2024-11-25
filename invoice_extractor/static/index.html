@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF Uploader</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 2em; }
+        form { margin: 1em 0; }
+        .result { margin: 1em 0; }
+    </style>
+</head>
+<body>
+    <h1>Upload PDF and View Result</h1>
+    <form id="upload-form" enctype="multipart/form-data">
+        <input type="file" name="file" accept="application/pdf" required>
+        <button type="submit">Upload</button>
+    </form>
+    <div id="result" class="result"></div>
+
+    <script>
+        const form = document.getElementById("upload-form");
+        form.addEventListener("submit", async (e) => {
+            e.preventDefault();
+            const formData = new FormData(form);
+            const response = await fetch("/upload/", {
+                method: "POST",
+                body: formData
+            });
+            const resultDiv = document.getElementById("result");
+            if (response.ok) {
+                const data = await response.json();
+                resultDiv.innerHTML = "<pre>" + JSON.stringify(data, null, 2) + "</pre>";
+            } else {
+                resultDiv.innerHTML = "<p>Error uploading file</p>";
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,1222 @@
+[
+  {
+    "id": 2120,
+    "name": "CMA CGM France",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "fr",
+    "city": null,
+    "shipowner_type": "carrier",
+    "scac": "CMDU"
+  },
+  {
+    "id": 2603,
+    "name": "TN MSC",
+    "freight_method": null,
+    "load_type": "lcl",
+    "country": "fr",
+    "city": null,
+    "shipowner_type": "logistics",
+    "scac": null
+  },
+  {
+    "id": 4476,
+    "name": "CMA CGM AirCargo Italy",
+    "freight_method": "air",
+    "load_type": "lcl",
+    "country": "it",
+    "city": "Milan",
+    "shipowner_type": "carrier",
+    "scac": null
+  },
+  {
+    "id": 4443,
+    "name": "CMA CGM Air Cargo",
+    "freight_method": "air",
+    "load_type": "lcl",
+    "country": null,
+    "city": null,
+    "shipowner_type": "carrier",
+    "scac": null
+  },
+  {
+    "id": 2825,
+    "name": "CMA CGM Poland",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "pl",
+    "city": null,
+    "shipowner_type": "carrier",
+    "scac": null
+  },
+  {
+    "id": 1,
+    "name": "CMA CGM",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "fr",
+    "city": null,
+    "shipowner_type": "carrier",
+    "scac": "CMDU"
+  },
+  {
+    "id": 2765,
+    "name": "Global Link Logistics Armenia",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "am",
+    "city": null,
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 420,
+    "name": "AMD",
+    "freight_method": null,
+    "load_type": "fcl",
+    "country": "fr",
+    "city": null,
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 5103,
+    "name": "Morrison Duisbourg",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "de",
+    "city": "Duisbourg",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 3453,
+    "name": "New Silk Road Intermodal - NSR",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Chengdu",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 1937,
+    "name": "MSC Italy",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "it",
+    "city": "Genova",
+    "shipowner_type": "carrier",
+    "scac": "MSCU"
+  },
+  {
+    "id": 2154,
+    "name": "MSC Belgium",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "be",
+    "city": "Antwerp",
+    "shipowner_type": "carrier",
+    "scac": "MSCU"
+  },
+  {
+    "id": 2773,
+    "name": "MRZ",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": null,
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 1112,
+    "name": "CMA CGM AirCargo France",
+    "freight_method": "air",
+    "load_type": "lcl",
+    "country": "fr",
+    "city": null,
+    "shipowner_type": "carrier",
+    "scac": "CMDU"
+  },
+  {
+    "id": 2774,
+    "name": "MRZ Logistics",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": null,
+    "shipowner_type": "logistics",
+    "scac": null
+  },
+  {
+    "id": 3892,
+    "name": "CMA CGM AirCargo USA",
+    "freight_method": "air",
+    "load_type": "lcl",
+    "country": "us",
+    "city": null,
+    "shipowner_type": "carrier",
+    "scac": null
+  },
+  {
+    "id": 2884,
+    "name": "MSC Germany",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "de",
+    "city": null,
+    "shipowner_type": "carrier",
+    "scac": null
+  },
+  {
+    "id": 2144,
+    "name": "MSC France",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "fr",
+    "city": "Le Havre ",
+    "shipowner_type": "carrier",
+    "scac": "MSCU"
+  },
+  {
+    "id": 1936,
+    "name": "MSC USA",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "us",
+    "city": "New York",
+    "shipowner_type": "carrier",
+    "scac": "MSCU"
+  },
+  {
+    "id": 1403,
+    "name": "MSC Spain",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "es",
+    "city": "Valencia",
+    "shipowner_type": "carrier",
+    "scac": "MSCU"
+  },
+  {
+    "id": 1989,
+    "name": "CMA CGM USA",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "us",
+    "city": null,
+    "shipowner_type": "carrier",
+    "scac": "CMDU"
+  },
+  {
+    "id": 1462,
+    "name": "CMA CGM Spain",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "es",
+    "city": "",
+    "shipowner_type": "carrier",
+    "scac": "CMDU"
+  },
+  {
+    "id": 1951,
+    "name": "CMA CGM Italy",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "it",
+    "city": "Milano",
+    "shipowner_type": "carrier",
+    "scac": "CMDU"
+  },
+  {
+    "id": 1306,
+    "name": "MRZ Trucking",
+    "freight_method": "truck",
+    "load_type": "lcl",
+    "country": "us",
+    "city": "Jamaica",
+    "shipowner_type": "carrier",
+    "scac": null
+  },
+  {
+    "id": 12,
+    "name": "MSC",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "ch",
+    "city": null,
+    "shipowner_type": "carrier",
+    "scac": "MSCU"
+  },
+  {
+    "id": 2155,
+    "name": "MSC Netherlands",
+    "freight_method": "ocean",
+    "load_type": "fcl",
+    "country": "nl",
+    "city": "Rotterdam",
+    "shipowner_type": "carrier",
+    "scac": "MSCU"
+  },
+  {
+    "id": 26,
+    "name": "Fatton Transports",
+    "freight_method": "truck",
+    "load_type": "lcl",
+    "country": "fr",
+    "city": null,
+    "shipowner_type": "carrier",
+    "scac": null
+  },
+  {
+    "id": 1561,
+    "name": "ESK Trucking",
+    "freight_method": "truck",
+    "load_type": "fcl",
+    "country": "us",
+    "city": null,
+    "shipowner_type": "carrier",
+    "scac": null
+  },
+  {
+    "id": 2494,
+    "name": "MMR Intermodal",
+    "freight_method": "truck",
+    "load_type": "fcl",
+    "country": "nl",
+    "city": null,
+    "shipowner_type": "carrier",
+    "scac": null
+  },
+  {
+    "id": 679,
+    "name": "AMD Dunkerque",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": "LOON-PLAGE",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 1401,
+    "name": "AMD Le Havre",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": "Le Havre",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 2229,
+    "name": "AMD Perpignan",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": "Perpignan",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 757,
+    "name": "Camdocs BV",
+    "freight_method": null,
+    "load_type": "lcl",
+    "country": "fr",
+    "city": "Antwerpen",
+    "shipowner_type": "logistics",
+    "scac": null
+  },
+  {
+    "id": 361,
+    "name": "AMR",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "be",
+    "city": "Zeebrugge",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 667,
+    "name": "Morrison",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "en",
+    "city": null,
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 2263,
+    "name": "AFRICAN DESK R&C DESK (BESC AO)",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "ao",
+    "city": "Luanda",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 680,
+    "name": "AMD Fos sur Mer",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": "PORT DE BOUC",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 184,
+    "name": "Fatton Bangkok",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "th",
+    "city": "Bangkok",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 263,
+    "name": "Morrison Rotterdam",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "nl",
+    "city": "Rotterdam",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 277,
+    "name": "Morrison El Paso",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "El Paso",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 280,
+    "name": "Morrison Chicago",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "Chicago",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 2084,
+    "name": "Global Link China",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Shenzhen",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 178,
+    "name": "Fatton CDG",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": "Roissy",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 177,
+    "name": "Fatton Fos",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": "Fos sur Mer",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 236,
+    "name": "Morrison Suzhou",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Suzhou",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 270,
+    "name": "Morrison Taichung",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "tw",
+    "city": "Taichung",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 584,
+    "name": "Fatton Marseille",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": "Marseille",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 274,
+    "name": "Morrison Cleveland",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "Cleveland",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 265,
+    "name": "Morrison Singapore",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "sg",
+    "city": "Singapour",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 264,
+    "name": "Morrison Manila",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "ph",
+    "city": "Manila",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 262,
+    "name": "Morrison Maastricht",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "nl",
+    "city": "Maastricht",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 521,
+    "name": "Fatton Nice",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": "Nice",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 238,
+    "name": "Morrison Tianjin",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Tianjin",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 239,
+    "name": "Morrison Wuhan",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Wuhan",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 230,
+    "name": "Morrison Dalian",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Dalian",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 231,
+    "name": "Morrison Hefei",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Hefei",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 232,
+    "name": "Morrison Hangzhou",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Hangzhou",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 233,
+    "name": "Morrison Ningbo",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Ningbo",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 234,
+    "name": "Morrison Nanjing",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Nanjing",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 235,
+    "name": "Morrison Shenyang",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Shenyang",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 237,
+    "name": "Morrison Qingdao",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Qingdao",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 254,
+    "name": "Morrison Busan",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "kr",
+    "city": "Busan",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 255,
+    "name": "Morrison Seoul",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "kr",
+    "city": "Seoul",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 187,
+    "name": "Fatton Los Angeles",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "Los Angeles",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 188,
+    "name": "Fatton Chicago",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "Chicago",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 424,
+    "name": "Fatton Nantes",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": "Nantes",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 229,
+    "name": "Morrison Chengdu",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Chengdu",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 225,
+    "name": "Morrison Shanghai",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Shanghai",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 226,
+    "name": "Morrison Beijing",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Beijing",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 227,
+    "name": "Morrison Zhengzhou",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Zhengzhou",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 228,
+    "name": "Morrison Chongqing",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Chongqing",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 245,
+    "name": "Morrison Prague",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cz",
+    "city": "Prague",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 247,
+    "name": "Morrison Frankfurt",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "de",
+    "city": "Francfort",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 246,
+    "name": "Morrison Dusseldorf",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "de",
+    "city": "Dusseldorf",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 248,
+    "name": "Morrison Hamburg",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "de",
+    "city": "Hambourg",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 250,
+    "name": "Morrison Hong Kong",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "hk",
+    "city": "Hong Kong",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 251,
+    "name": "Morrison Jakarta",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "id",
+    "city": "Jakarta",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 252,
+    "name": "Morrison Tokyo",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "jp",
+    "city": "Tokyo",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 240,
+    "name": "Morrison Xian",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Xian",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 241,
+    "name": "Morrison Guangzhou",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Guangzhou",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 242,
+    "name": "Morrison Fuzhou",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Fuzhou",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 243,
+    "name": "Morrison Shenzhen",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Shenzhen",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 249,
+    "name": "Morrison London",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "gb",
+    "city": "London",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 720,
+    "name": "Fatton Ho Chi Minh",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "vn",
+    "city": "Ho Chi Minh",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 173,
+    "name": "Fatton Toronto",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "ca",
+    "city": "Toronto",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 160,
+    "name": "Fatton Ariva Johannesburg",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "za",
+    "city": "Johannesburg",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 182,
+    "name": "Fatton Chennai",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "in",
+    "city": "Chennai",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 183,
+    "name": "Fatton New Delhi",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "in",
+    "city": "New Delhi",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 185,
+    "name": "Fatton Taipei",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "tw",
+    "city": "Taipei",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 175,
+    "name": "Fatton Barcelona",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "es",
+    "city": "Barcelone",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 1197,
+    "name": "Fatton Toulouse",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": "Blagnac",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 1182,
+    "name": "Fatton Hyderabad",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "in",
+    "city": "Hyderabad",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 172,
+    "name": "Fatton Montreal",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "ca",
+    "city": "Fatton Montreal",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 380,
+    "name": "Fatton Lyon",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": "Lyon",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 186,
+    "name": "Fatton New York",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "New York",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 279,
+    "name": "Morrison Miami",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "Miami",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 258,
+    "name": "Morrison Kuala Lumpur",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "my",
+    "city": "Kuala Lumpur",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 244,
+    "name": "Morrison Xiamen",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Xiamen",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 260,
+    "name": "Morrison Amsterdam",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "nl",
+    "city": "Amsterdam",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 176,
+    "name": "Fatton Le Havre",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": "Le Havre",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 668,
+    "name": "Fatton",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": null,
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 666,
+    "name": "Fatton Valence",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "fr",
+    "city": "Valence",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 268,
+    "name": "Morrison Hsinchu",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "tw",
+    "city": "Hsinchu",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 174,
+    "name": "Fatton Shenzhen",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "cn",
+    "city": "Shenzhen",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 266,
+    "name": "Morrison Bangkok",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "th",
+    "city": "Bangkok",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 267,
+    "name": "Morrison Taipei",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "tw",
+    "city": "Taipei",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 256,
+    "name": "Morrison Luxembourg",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "lu",
+    "city": "Luxembourg",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 269,
+    "name": "Morrison Kaohsiung",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "tw",
+    "city": "Kaohsiung",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 259,
+    "name": "Morrison Penang",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "my",
+    "city": "Penang",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 261,
+    "name": "Morrison Eindhoven",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "nl",
+    "city": "Eindhoven",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 278,
+    "name": "Morrison New York",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "New York",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 281,
+    "name": "Morrison Seattle",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "Seattle",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 282,
+    "name": "Morrison San Francisco",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "San Francisco",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 283,
+    "name": "Morrison Phoenix",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "Phoenix",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 284,
+    "name": "Morrison Hanoi",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "vn",
+    "city": "Hanoi",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 285,
+    "name": "Morrison Ho Chi Minh Ville",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "vn",
+    "city": "Ho Chi Minh Ville",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 272,
+    "name": "Morrison Atlanta",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "Atlanta",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 273,
+    "name": "Morrison Boston",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "Boston",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 275,
+    "name": "Morrison Columbus",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "Columbus",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 257,
+    "name": "Morrison Mexico",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "mx",
+    "city": "Mexico",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 276,
+    "name": "Morrison Dallas",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "Dallas",
+    "shipowner_type": "agent",
+    "scac": null
+  },
+  {
+    "id": 271,
+    "name": "Morrison Los Angeles",
+    "freight_method": null,
+    "load_type": "both",
+    "country": "us",
+    "city": "Los Angeles",
+    "shipowner_type": "agent",
+    "scac": null
+  }
+]
