@@ -1,7 +1,7 @@
 # Invoice Information Extractor
 Parse and extract information from pdf files as defined in invoice_extractor.prompt. Uses 2 internal databases (shipment and suppliers).
 
-## **Main Information to Extract**
+## **Main Information Extracted**
 
 1. **Invoice Number**
 2. **Invoice Date**
@@ -22,6 +22,7 @@ Parse and extract information from pdf files as defined in invoice_extractor.pro
 
 ## CLI
 ```
+export MISTRAL_API_KEY=<YOUR_API_KEY>
 poetry install
 poetry run invoice_extractor PATH
 ```
